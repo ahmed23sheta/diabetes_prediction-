@@ -1,17 +1,18 @@
-# diabetes_prediction-
-Diabetes Prediction Using Machine Learning 
 
-Project Objectives:
+# Diabetes Prediction Using Machine Learning 
+
+# Project Objectives:
 The objective of this project is to diagnostically predict whether a patient has diabetes, based on certain
 diagnostic measurements included in the dataset
 
-Libraries:
+# Libraries:
 •Pandas for data manipulation and analysis
 • NumPy for numerical computing evaluation
 •Matplotlib ,seaborn for visualisation 
 •sktlearn for machine learning model
 
-steps:
+# steps:
+
 1)import libraries
 2)upload data &show it
 3)understanding the data by some function
